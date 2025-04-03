@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**renanm99/renanm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I am a software developer with a passion for building innovative web applications. Below are some of the projects I have worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+
+#### 1. Webflix Streamer
+- **Repository:** [Webflix Streamer](https://github.com/renanm99/webflix-streamer)
+- **Description:** A torrent web media player built in Typescript using WebTorrent.
+- **Languages:** TypeScript (97.8%), JavaScript (1.2%), Other (1%)
+
+#### 2. CarteiraGO
+- **Repository:** [CarteiraGO](https://github.com/renanm99/CarteiraGO)
+- **Description:** Repository to backend API for the CarteiraGo web app.
+- **Languages:** Go (100%)
+
+#### 3. CarteiraGO Front
+- **Repository:** [CarteiraGO Front](https://github.com/renanm99/CarteiraGO-front)
+- **Description:** Repository to front end app for CarteiraGo web app.
+- **Languages:** TypeScript (96.2%), JavaScript (1.9%), Other (1.9%)
+
+### Resume
+
+You can view my resume [here](https://github.com/renanm99/renanm99/blob/main/RenanMachadoNewerResumer_241215_104503_250224_082821.pdf).
+
+### Get In Touch
+
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/renanoliveiram)
