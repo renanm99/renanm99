@@ -24,7 +24,7 @@ I am a software developer with a passion for building innovative web application
 
 ### Resume
 
-You can view my resume [here](https://github.com/renanm99/renanm99/blob/main/RenanMachadoNewerResumer_241215_104503_250224_082821.pdf).
+You can view my resume [here](https://github.com/renanm99/renanm99/blob/main/RenanMachadoResume.pdf).
 
 ### Get In Touch
 
