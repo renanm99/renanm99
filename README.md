@@ -9,18 +9,18 @@ I am a software developer with a passion for building innovative web application
 #### 1. Webflix Streamer
 - **Repository:** [Webflix Streamer](https://github.com/renanm99/webflix-streamer)
 - **Description:** A torrent web media player built in Typescript using WebTorrent.
-- **Languages:** TypeScript (97.8%), JavaScript (1.2%), Other (1%)
+- **Languages:** TypeScript
 - **Check it out:** [webflix.renanmachado.dev.br](https://webflix.renanmachado.dev.br)
 
 #### 2. CarteiraGO
 - **Repository:** [CarteiraGO](https://github.com/renanm99/CarteiraGO)
 - **Description:** Repository to backend API for the CarteiraGo web app.
-- **Languages:** Go (100%)
+- **Languages:** Go
 
 #### 3. CarteiraGO Front
 - **Repository:** [CarteiraGO Front](https://github.com/renanm99/CarteiraGO-front)
 - **Description:** Repository to front end app for CarteiraGo web app.
-- **Languages:** TypeScript (96.2%), JavaScript (1.9%), Other (1.9%)
+- **Languages:** TypeScript
 
 ### Resume
 
